@@ -1,6 +1,11 @@
 # Conways-game-of-life
 Conway's game of life coded in C++ using SFML. Feel free to run if you have SFML set up.
 
+-Instructions
+
+0) Download and execute Conway game of life (executable).
+1) Enjoy!
+
 -Instructions for customized simulation:
 
 0) You must have SFML set up with your IDE.
