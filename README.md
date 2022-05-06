@@ -3,6 +3,7 @@ Conway's game of life coded in C++ using SFML. Feel free to run if you have SFML
 
 -Instructions for customized simulation:
 
+0) You must have SFML set up with your IDE.
 1) Set the cell_size constant to any integer (this will be the size in pixels of a cell)
 2) Set the UPDATE_RATE. The higher this value, the slower the animation will be.
 3) Set WIDTH and HEIGHT as the desired resolution of the window in pixels.
